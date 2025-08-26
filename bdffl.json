@@ -1,7 +1,7 @@
 {
   "name": "BDFFL Coin",
   "symbol": "BDFFL",
-  "description": "Fantasy Football league token for BDFFL. Used for league pots and experiments on Solana.",
+  "description": "Fantasy Football league token for BDFFL.",
   "image": "https://raw.githubusercontent.com/OutrunPost/bdffl_test-token/refs/heads/main/bdffl.png",
   "external_url": "https://github.com/OutrunPost/bdffl_test-token",
   "attributes": [
