@@ -1,0 +1,10 @@
+{
+  "name": "BDFFL Coin",
+  "symbol": "BDFFL",
+  "description": "Fantasy Football league token for BDFFL. Used for league pots and experiments on Solana.",
+  "image": "https://your-host/bdffl.png",
+  "external_url": "https://your-site-or-github",
+  "attributes": [
+    {"trait_type": "Season", "value": "2025"}
+  ]
+}
